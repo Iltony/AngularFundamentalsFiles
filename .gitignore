@@ -1,2 +1,10 @@
 /DemoApp/DemoApp/app/*
 /DemoApp-Finished/DemoApp-Finished/app/*
+/DemoApp/app/*/DemoApp-Finished/app/*
+/DemoApp/node_modules
+/DemoApp-Finished/node_modules
+/DemoApp/app/datepickerDirectiveFiles/*
+/*/app/*/*
+/*/test/**
+/*/AppData/*
+/*/test/**
